@@ -1,0 +1,1 @@
+try{(function(p){if(!sessionStorage.navetBoot&&(p===`/`||p.indexOf(`/lovelace`)===0||p.indexOf(`/home`)===0)){sessionStorage.navetBoot=`1`;location.replace(`/navet`);}})(location.pathname);}catch(e){}

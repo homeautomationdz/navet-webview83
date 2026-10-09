@@ -1,0 +1,7 @@
+node_modules/
+out/
+dist/
+# never commit Navet itself or a built copy of it
+custom_components/
+navet/
+*.zip
